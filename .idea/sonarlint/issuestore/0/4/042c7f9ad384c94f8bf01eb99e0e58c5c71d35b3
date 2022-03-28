@@ -1,0 +1,95 @@
+
+j
+java:S2095Ğ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŒŞ™úşÿÿÿÿ
+i
+java:S2095ß"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Øá÷Öúÿÿÿÿ
+l
+java:S2095°"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ƒ¢ªúøÿÿÿÿ
+j
+java:S2095¯"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŒŞ™úşÿÿÿÿ
+l
+java:S2095Ñ"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ƒ¢ªúøÿÿÿÿ
+i
+java:S2095¿"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Øá÷Öúÿÿÿÿ
+k
+java:S2095à"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Ş½Ùùÿÿÿÿ
+k
+java:S2095À"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Ş½Ùùÿÿÿÿ
+9
+java:S2189Â""Add an end condition to this loop.(´ÿÕ™
+9
+java:S2189â""Add an end condition to this loop.(´ÿÕ™
+v
+java:S1104"[Make formula1Drivers a static final constant or non-public and provide accessors if needed.(ê†ÖÕÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šÿ“Ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÄÜÚ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦ËÄúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’“Áş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯ãŒ‡úÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¨ºùÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ûâ¢
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(÷Õ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ÜüŠŒüÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(÷Õ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(öñ“ÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(×¸†¨
+g
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²©º
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(Äï‰ëşÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(¿¸øÿÿÿÿ
+D
+java:S6212W"/Declare this local variable with "var" instead.(ãˆ‡N
+E
+java:S6212X"/Declare this local variable with "var" instead.(®Ãñ
+E
+java:S6212Y"/Declare this local variable with "var" instead.(¹ò™ª
+E
+java:S6212Z"/Declare this local variable with "var" instead.(¬¿Ë²
+J
+java:S6212["/Declare this local variable with "var" instead.(íœÙšÿÿÿÿÿ
+d
+java:S1871‡"MThis branch's code block is the same as the block for the branch on line 131.(Î”¥³
+i
+java:S1871‘"MThis branch's code block is the same as the block for the branch on line 131.(Ÿ¹‹«ùÿÿÿÿ
+i
+java:S1871Œ"MThis branch's code block is the same as the block for the branch on line 131.(›Œë•ıÿÿÿÿ
+d
+java:S1871–"MThis branch's code block is the same as the block for the branch on line 131.(ü•æ
+d
+java:S1871›"MThis branch's code block is the same as the block for the branch on line 131.(›ïÖ¿
+d
+java:S1871 "MThis branch's code block is the same as the block for the branch on line 131.(è†šó
+T
+java:S1854­"8Remove this useless assignment to local variable "file".(„æƒ¹ıÿÿÿÿ
+K
+java:S6212­"/Declare this local variable with "var" instead.(„æƒ¹ıÿÿÿÿ
+K
+java:S6212¯"/Declare this local variable with "var" instead.(ŒŞ™úşÿÿÿÿ
+K
+java:S6212°"/Declare this local variable with "var" instead.(ƒ¢ªúøÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¦ËÄúÿÿÿÿ
+K
+java:S6212¿"/Declare this local variable with "var" instead.(Øá÷Öúÿÿÿÿ
+K
+java:S6212À"/Declare this local variable with "var" instead.(Ş½Ùùÿÿÿÿ
+T
+java:S1854Î"8Remove this useless assignment to local variable "file".(áì¹çÿÿÿÿÿ
+K
+java:S6212Î"/Declare this local variable with "var" instead.(áì¹çÿÿÿÿÿ
+K
+java:S6212Ğ"/Declare this local variable with "var" instead.(ŒŞ™úşÿÿÿÿ
+K
+java:S6212Ñ"/Declare this local variable with "var" instead.(ƒ¢ªúøÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(Ùô¶‘
+K
+java:S6212ß"/Declare this local variable with "var" instead.(Øá÷Öúÿÿÿÿ
+K
+java:S6212à"/Declare this local variable with "var" instead.(Ş½Ùùÿÿÿÿ
+F
+java:S6212ä"/Declare this local variable with "var" instead.(Ñ¤ìø
+E
+java:S1481­")Remove this unused "file" local variable.(„æƒ¹ıÿÿÿÿ
+E
+java:S1481Î")Remove this unused "file" local variable.(áì¹çÿÿÿÿÿ
